@@ -2,12 +2,12 @@
 # Copyright 2019 Eek! (wowitseek@gmail.com)
 # All rights reserved.
 
-## Interface: 80300
+## Interface: 100002
 ## Title: AdiBags - Prior Expansions
 ## Notes: Adds filters to AdiBags seperating current items from those from older expansions
 ## Author: Eek - Earthen Ring
 ## Version: 1.1.01
-## X-Date: 2020-06-23
+## X-Date: 2022-11-19
 ## X-License: GPL v3
 ## X-Category: Bags & Inventory
 ## Dependencies: AdiBags
